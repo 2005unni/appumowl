@@ -19,11 +19,12 @@ Appumwol - Simple whatsapp Multi Device whatsapp bot.
 3. Get [DATABASE_URL]
   <br>
 Create an account SIGN UP <a href="https://railway.app/">railwway database</a>
+<br>
 
 Click New Project as PostgreSQL Project
-
+<br>
 Open Connect tab, Copy Postgres Connection URL
-
+<br>
 
 
 
